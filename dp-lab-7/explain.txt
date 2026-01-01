@@ -1,0 +1,2 @@
+we need state over strategy when changes occurs internally and strategy when client chooses to add more or a new type.
+mainly when we state changes dynamically here.
